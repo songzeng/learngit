@@ -4,4 +4,4 @@ GIt is so good
 Git has a mutable index called stage
 Git has a ..
 Git has a dev
-.
+Creating a new branch is quick AND simple..
